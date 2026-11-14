@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "dogear",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.jpg",
+  "Desc": "a paper calendar, a clock, and a drawer for your programs.",
+  "Author": "",
+  "License": "",
+  "Contact": "",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
